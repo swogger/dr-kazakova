@@ -195,7 +195,7 @@ img.centered {
   margin: 2em 0;
   z-index: 1; 
 }
-@media (min-width: 480px) {
+@media (min-width: 360px) {
   .title-group {
     margin: 2em 0 4em;
   }
@@ -777,13 +777,13 @@ img.centered {
 .overlay-menu .navigation li > a {
   color: inherit;
 }
-@media (min-width: 480px) {
+@media (min-width: 360px) {
   .overlay-menu .navigation li {
     font-size: 1.875em;
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 360px) {
   
    
   .navbar-brand {
@@ -1660,7 +1660,7 @@ img.centered {
   text-align: center;
   margin-top: 1em;
 }
-@media (min-width: 600px) {
+@media (min-width: 768px) {
   .contact-form {
     padding: 4em 6em;
   }
